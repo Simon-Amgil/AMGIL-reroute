@@ -4,6 +4,7 @@
       "route": "/*",
       "redirect": "https://www.amgil.swiss",
       "statusCode": 301
+      
     }
   ]
 }
