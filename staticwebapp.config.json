@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://amgil.swiss",
+      "redirect": "https://www.amgil.swiss",
       "statusCode": 301
     }
   ]
